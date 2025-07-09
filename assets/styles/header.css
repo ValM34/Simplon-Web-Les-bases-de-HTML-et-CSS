@@ -1,0 +1,23 @@
+.header-main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 120px;
+  height: 74px;
+}
+
+.logo-main img {
+  filter: invert(1);
+}
+
+.nav-main {
+  display: flex;
+  font-family: 'Lato', sans-serif;
+  gap: 52px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.nav-main a {
+  color: var(--black);
+}
