@@ -151,6 +151,7 @@
   font-weight: 700;
   text-transform: capitalize;
   color: var(--white);
+  line-height: 150%;
 }
 
 .newsletter-container form {
